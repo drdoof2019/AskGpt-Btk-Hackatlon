@@ -1,10 +1,10 @@
 # AskGPT: Ekran Görüntüsü Tabanlı AI Asistan
 
 ## Proje Hakkında
--AskGPT, kullanıcıların ekran görüntüsü alarak yapay zeka ile etkileşime geçmesini sağlayan bir masaüstü uygulamasıdır. -Google'ın Gemini AI modeli kullanılarak geliştirilmiştir.
--Chat yapısı sayesinde kullanıcının eski sorularını da hafızasında tutar.
--Birden fazla ekranı destekler.
--Herhangi bir işlem yaparken ekranın istediğiniz kısmının görüntüsünü alarak tetiklenir.
+-AskGPT, kullanıcıların ekran görüntüsü alarak yapay zeka ile etkileşime geçmesini sağlayan bir masaüstü uygulamasıdır. -Google'ın Gemini AI modeli kullanılarak geliştirilmiştir.  
+-Chat yapısı sayesinde kullanıcının eski sorularını da hafızasında tutar.  
+-Birden fazla ekranı destekler.  
+-Herhangi bir işlem yaparken ekranın istediğiniz kısmının görüntüsünü alarak tetiklenir.  
 
 ## Özellikler
 - 🖼️ Kolay ekran görüntüsü alma
@@ -53,4 +53,5 @@ python inty.py
 5. Sorunuzu yazın ve AI'dan yanıt alın
 
 ## Lisans
+
 Bu proje MIT lisansı altında lisanslanmıştır.
