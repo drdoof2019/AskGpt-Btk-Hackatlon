@@ -8,8 +8,8 @@ Versiyon 2, MCP(Model Context Protocol) destekler. Bu teknolojiyi destekleyebilm
 Yarışma kurallarını okuduğumuzda mcp-use kütüphanesini kullanıp/kullanamayacağımız konusunda muallakta kaldık bu yüzden 2 versiyon çıkardık. Eğer olumsuz bir durum varsa 1. versiyonu baz alabilirsiniz.
 
 ## Kısaca ne işe yarar?
-AskGPT windows desktopta birden fazla ekranla çalışabilir şekilde tasarlanmış bir AI asistan. Günümüzde llm'lerin en büyük problemlerinden bazıları knowledge cut-off tarihleri ve halüsinasyon görmeleridir.
-AskGPT her 2 sorununda çözümü için geliştirilmiştir.   
+AskGPT windows desktopta birden fazla ekranla çalışabilir şekilde tasarlanmış bir AI asistan. Günümüzde llm'lerin en büyük problemlerinden bazıları, knowledge cut-off tarihleri ve halüsinasyon görmeleridir.
+AskGPT her 2 sorunun da çözümü için geliştirilmiştir.   
 Çözüm1: Kullanıcı anlık olarak yaşadığı problemi sadece chatbot'a yazarak açıklamaz, ekran görüntüsü ile destekler bu sayede daha gerçekçi ve tutarlı cevaplar alır.  
 Çözüm2: Kullanıcı MCP desteği ile güncel dökümantasyonlara - anlık bilgilere ulaşabilir.  
 Kısaca ister elektronik devre kartı tasarlayın, ister solidworkste çizim yapın, veya kıyafet tasarlayın, isterseniz chrome'da bir ayar arayın, kod yazın vs. hatta oyunlarda bir görevde cevabı arayın, istediğiniz her konuda destek olmak için AskGPT hazır.  
