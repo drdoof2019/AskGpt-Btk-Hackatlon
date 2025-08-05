@@ -12,7 +12,10 @@ AskGPT windows desktopta birden fazla ekranla çalışabilir şekilde tasarlanm�
 AskGPT her 2 sorunun da çözümü için geliştirilmiştir.   
 Çözüm1: Kullanıcı anlık olarak yaşadığı problemi sadece chatbot'a yazarak açıklamaz, ekran görüntüsü ile destekler bu sayede daha gerçekçi ve tutarlı cevaplar alır.  
 Çözüm2: Kullanıcı MCP desteği ile güncel dökümantasyonlara - anlık bilgilere ulaşabilir.  
-Kısaca ister elektronik devre kartı tasarlayın, ister solidworkste çizim yapın, veya kıyafet tasarlayın, isterseniz chrome'da bir ayar arayın, kod yazın vs. hatta oyunlarda bir görevde cevabı arayın, istediğiniz her konuda destek olmak için AskGPT hazır.  
+Kısaca ister elektronik devre kartı tasarlayın, ister solidworkste çizim yapın, veya kıyafet tasarlayın, isterseniz chrome'da bir ayar arayın, kod yazın, son albümünüz için stüdyo programınızda çalışın, hatta oyunlarda bir görevde cevabı arayın, istediğiniz her konuda destek olmak için AskGPT hazır. 
+
+## Örnek senaryo:
+Matlab programı ile bir fotovoltaik panel(güneş paneli) tasarımı yapıyorsunuz. Başından sonuna kadar sorularınızı fotoğraflı bir şekilde AskGPT ye sorabilirsiniz. Hem hafızası sayesinde önceki sorularınızı (dolayısıyla yaptığınız işi) unutmaz (ancak hafıza istenildiğinde sıfırlanabiliyor), hem de LLM'ler milyarlarca parametre ile eğitildiği için matlab'ın onlarca versiyonunun bilgisine sahiptir, sizin ihtiyacınız olan niche bilgiyi verebilme ihtimali yüksek oranda artmaktadır.
 
 ## Kısaca nasıl kullanılır?
 Program çalıştığında k.adı şifre ile giriş yapılır (şuan için test-test), klavyeden istenilen bir tuş atanır.
@@ -22,3 +25,4 @@ varsa prompt girme ekranından sorusunu sorup chat'e devam edebilir.
 
 ## Tanıtım videoları:
 Kısa süre limitine sığdırmak için olabildiğince hızlı bir şekilde çekildiler. Umarız anlaşılır olmuştur.
+Video buraya
