@@ -31,9 +31,9 @@ ekleyerek kullanabilir.
 
 ## Butonların işlevleri
 Assign Key - programı tetiklemek için tuş atama yapılır  
-Start Program - program çalıştırılır
-Çıkış yap - login olunan kullanıcıdan çıkış yapılır
-Sohbet geçmişini sıfırla - program chat geçmişini hatırladığı için temiz bir başlangıç yapmak için bu buton kullanılabilir
+Start Program - program çalıştırılır  
+Çıkış yap - login olunan kullanıcıdan çıkış yapılır  
+Sohbet geçmişini sıfırla - program chat geçmişini hatırladığı için temiz bir başlangıç yapmak için bu buton kullanılabilir  
 Yüklenen dosyaları sil - bu buton gemini api ile sunucularına yüklenilen ekran resimlerini siler (kullanıcı silmese de gemini birkaç gün sonra otomatik siliyor)  
 
 ## Kurulum
@@ -67,3 +67,4 @@ python inty.py
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
+
