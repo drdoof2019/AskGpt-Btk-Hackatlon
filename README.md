@@ -1,7 +1,7 @@
 # AskGPT: Ekran Görüntüsü Tabanlı AI Asistan
 
 Burada BTKAkademi bünyesindeki Hackatlon25 yarışmasına yönelik kısa tanıtım yapacağım.  
-Programın versiyon dosyaları içinde readme'leri bulabilirsiniz.  
+Programın detayları için versiyon dosyaları içinde readme'leri bulabilirsiniz.  
 
 ## Neden 2 versiyon?
 Versiyon 2, MCP(Model Context Protocol) destekler. Bu teknolojiyi destekleyebilmek için gemini langchain kullanır.
