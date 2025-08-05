@@ -29,6 +29,13 @@ ekleyerek kullanabilir.
 - PIL (Python Imaging Library)
 - Win32API (Windows ekran yakalama)
 
+## Butonların işlevleri
+Assign Key - programı tetiklemek için tuş atama yapılır  
+Start Program - program çalıştırılır
+Çıkış yap - login olunan kullanıcıdan çıkış yapılır
+Sohbet geçmişini sıfırla - program chat geçmişini hatırladığı için temiz bir başlangıç yapmak için bu buton kullanılabilir
+Yüklenen dosyaları sil - bu buton gemini api ile sunucularına yüklenilen ekran resimlerini siler (kullanıcı silmese de gemini birkaç gün sonra otomatik siliyor)  
+
 ## Kurulum
 1. Depoyu klonlayın
 ```bash
@@ -58,4 +65,5 @@ python inty.py
 5. Sorunuzu yazın ve AI'dan yanıt alın
 
 ## Lisans
+
 Bu proje MIT lisansı altında lisanslanmıştır.
