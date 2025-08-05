@@ -1,6 +1,6 @@
 # AskGPT: Ekran Görüntüsü Tabanlı AI Asistan
 
-Burada BTKAkademi bünyesindeki Hackatlon25 yarışmasına yönelik kısa tanıtım yapacağım.  
+Burada BTKAkademi bünyesindeki Hackatlon25 yarışmasına yönelik kısa tanıtım yapacağız.  
 Programın detayları için versiyon dosyaları içinde readme'leri bulabilirsiniz.  
 
 ## Neden 2 versiyon?
