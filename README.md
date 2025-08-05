@@ -4,7 +4,7 @@ Burada BTKAkademi bünyesindeki Hackatlon25 yarışmasına yönelik kısa tanıt
 Programın versiyon dosyaları içinde readme'leri bulabilirsiniz.  
 
 ## Neden 2 versiyon?
-2. versiyon MCP(Model Context Protocol) destekler. Bu teknolojiyi destekleyebilmek için gemini langchain kullanır.
+Versiyon 2, MCP(Model Context Protocol) destekler. Bu teknolojiyi destekleyebilmek için gemini langchain kullanır.
 Yarışma kurallarını okuduğumuzda mcp-use kütüphanesini kullanıp/kullanamayacağımız konusunda muallakta kaldık bu yüzden 2 versiyon çıkardık. Eğer olumsuz bir durum varsa 1. versiyonu baz alabilirsiniz.
 
 ## Kısaca ne işe yarar?
