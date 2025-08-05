@@ -25,4 +25,4 @@ varsa prompt girme ekranından sorusunu sorup chat'e devam edebilir.
 
 ## Tanıtım videoları:
 Kısa süre limitine sığdırmak için olabildiğince hızlı bir şekilde çekildiler. Umarız anlaşılır olmuştur.
-Video buraya
+Video: https://youtu.be/_e13cLiwxy8
